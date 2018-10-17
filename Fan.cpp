@@ -1,4 +1,4 @@
-/* Fan.cpp - Fan speed control library
+/* Fan.cpp - Fan Speed Control and Sensor Library
  * 
  */
 

@@ -1,4 +1,4 @@
-/* Fan.h - Fan speed control library
+/* Fan.h - Fan Speed Control and Sensor Library
  * 
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none
